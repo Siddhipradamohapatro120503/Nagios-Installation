@@ -1,6 +1,6 @@
 # 🚀 Installing Nagios 4 on Ubuntu 20.04: A Step-by-Step Guide
 
-By Rahul Kundra | 4 min read | Feb 27, 2023
+By Siddhiprada Mohapatro
 
 ## 📋 Overview
 
